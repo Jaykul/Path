@@ -1,0 +1,1 @@
+Add-Type -ErrorAction Stop -Path $PSScriptRoot\PathAttribute.cs
